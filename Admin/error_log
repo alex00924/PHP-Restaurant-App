@@ -1,0 +1,392 @@
+[19-May-2018 12:22:18 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 29
+[19-May-2018 12:25:34 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:25:34 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:25:34 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:25:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 9
+[19-May-2018 12:25:34 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 9
+[19-May-2018 12:26:00 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:00 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:00 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:00 Etc/GMT] PHP Notice:  Undefined index: email in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 5
+[19-May-2018 12:26:00 Etc/GMT] PHP Notice:  Undefined index: password in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 6
+[19-May-2018 12:26:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 9
+[19-May-2018 12:26:00 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 9
+[19-May-2018 12:26:46 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:46 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:46 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:46 Etc/GMT] PHP Notice:  Undefined index: email in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 5
+[19-May-2018 12:26:46 Etc/GMT] PHP Notice:  Undefined index: password in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 6
+[19-May-2018 12:26:53 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:53 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:26:53 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:29 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:29 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:29 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:27:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:27:52 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:52 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:52 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:27:52 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:27:52 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:29:51 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:51 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:51 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:29:51 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:29:54 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:54 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:54 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:29:54 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:29:54 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:30:17 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:17 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:17 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:30:17 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:30:24 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:24 Etc/GMT] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:24 Etc/GMT] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 3
+[19-May-2018 12:30:24 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:30:24 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 10
+[19-May-2018 12:34:04 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 29
+[19-May-2018 12:34:15 Etc/GMT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 29
+[19-May-2018 12:38:50 Etc/GMT] PHP Notice:  Undefined index: email in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 7
+[19-May-2018 12:38:50 Etc/GMT] PHP Notice:  Undefined index: password in /home/cpuma/public_html/Applications/restaurent/Admin/authenticity_check.php on line 8
+[19-May-2018 13:34:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 103
+[19-May-2018 13:54:06 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:54:06 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:54:09 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:54:09 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:54:13 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:54:13 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:55:24 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:55:24 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:55:26 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:55:26 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 63
+[19-May-2018 13:57:17 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:57:17 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:57:21 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:57:21 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:57:56 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:57:56 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:51 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:51 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:51 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 54
+[19-May-2018 13:58:53 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:53 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:54 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:54 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:54 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 13:58:54 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 54
+[19-May-2018 13:58:56 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:56 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:58 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 13:58:58 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:02 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:02 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:10 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 14:00:10 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 14:00:10 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 53
+[19-May-2018 14:00:10 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 54
+[19-May-2018 14:00:26 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:26 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:28 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:28 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:30 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:30 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:31 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:31 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:32 Etc/GMT] PHP Notice:  Undefined variable: query in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 54
+[19-May-2018 14:00:32 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 54
+[19-May-2018 14:00:35 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:35 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:39 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:00:39 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 62
+[19-May-2018 14:01:37 Etc/GMT] PHP Notice:  Undefined variable: result in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 64
+[19-May-2018 14:01:37 Etc/GMT] PHP Fatal error:  Call to a member function fetch_array() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 64
+[19-May-2018 14:04:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 125
+[19-May-2018 14:04:20 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 125
+[19-May-2018 14:04:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 125
+[19-May-2018 14:04:40 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:04:40 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:04:40 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:05:52 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:05:52 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:05:52 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:06:08 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:06:08 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:06:08 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:07:51 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:07:51 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:07:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:08:47 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 59
+[19-May-2018 14:08:49 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 59
+[19-May-2018 14:08:51 Etc/GMT] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE) in /home/cpuma/public_html/Applications/restaurent/Admin/Customer.php on line 59
+[19-May-2018 14:08:57 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:08:57 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:08:57 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:09:51 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:09:51 Etc/GMT] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_query(): A link to the server could not be established in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 65
+[19-May-2018 14:09:51 Etc/GMT] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 66
+[19-May-2018 14:10:35 Etc/GMT] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/cpuma/public_html/Applications/restaurent/Admin/Reservation.php on line 69
+[19-May-2018 14:12:23 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 103
+[19-May-2018 14:24:29 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 103
+[19-May-2018 14:26:56 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/Table.php on line 54
+[19-May-2018 14:26:56 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Table.php on line 54
+[19-May-2018 15:46:27 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:46:27 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:46:27 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:46:27 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 15:46:27 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 15:47:59 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:47:59 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:47:59 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:47:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 15:47:59 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 15:48:01 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:48:01 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:48:01 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 15:48:01 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 15:48:01 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 16:12:26 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 16:12:26 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 16:12:26 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 16:12:26 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 16:12:26 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:15 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:15 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:15 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:15 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:15 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:29 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:29 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:29 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:35 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:35 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:35 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:35 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:35 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:40 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:40 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:40 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:08:40 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:08:40 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:10:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 17:11:03 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:03 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:03 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:11:03 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:11:09 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:09 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:09 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:09 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:11:09 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:11:58 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:58 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:58 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:11:58 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:11:58 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:00 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:00 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:00 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:00 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:00 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:03 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:03 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:03 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:03 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:03 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:51 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 17:12:51 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:51 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:53 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:53 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:53 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:12:53 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:12:53 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 65
+[19-May-2018 17:13:28 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:13:28 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:13:28 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:15:59 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:15:59 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:15:59 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:15:59 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 61
+[19-May-2018 17:15:59 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 61
+[19-May-2018 17:16:10 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:16:10 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:16:10 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:16:10 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 61
+[19-May-2018 17:16:10 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 61
+[19-May-2018 17:17:29 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:29 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:29 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 59
+[19-May-2018 17:17:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 59
+[19-May-2018 17:17:32 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:32 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:32 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 4
+[19-May-2018 17:17:32 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 59
+[19-May-2018 17:17:32 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 59
+[19-May-2018 17:18:29 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:29 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:29 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 10
+[19-May-2018 17:18:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 10
+[19-May-2018 17:18:31 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:31 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:31 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:18:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 10
+[19-May-2018 17:18:31 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 10
+[19-May-2018 17:19:13 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:13 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:13 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:13 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:14 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:14 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:14 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:14 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:14 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:16 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:16 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:16 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:16 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:16 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:19:28 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:28 Etc/GMT] PHP Warning:  include(Admin/db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:28 Etc/GMT] PHP Warning:  include(): Failed opening 'Admin/db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:49 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:49 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:19:49 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:01 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:01 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:01 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:04 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:04 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:04 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:29 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:29 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:29 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:20:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:20:31 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:31 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:31 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 6
+[19-May-2018 17:20:31 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:20:31 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 9
+[19-May-2018 17:22:08 Etc/GMT] PHP Notice:  Undefined variable: i in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 66
+[19-May-2018 17:22:08 Etc/GMT] PHP Notice:  Undefined variable: i in /home/cpuma/public_html/Applications/restaurent/Admin/timings.php on line 72
+[19-May-2018 17:23:52 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 17:23:52 Etc/GMT] PHP Warning:  include(db_connect): failed to open stream: No such file or directory in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 17:23:52 Etc/GMT] PHP Warning:  include(): Failed opening 'db_connect' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 4
+[19-May-2018 17:23:52 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 17:23:52 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/profile.php on line 43
+[19-May-2018 17:24:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 17:35:49 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:04 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:06 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:16:42 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:18:35 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:18:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:20:29 Etc/GMT] PHP Notice:  Undefined variable: con in /home/cpuma/public_html/Applications/restaurent/Admin/Form.php on line 8
+[19-May-2018 18:20:29 Etc/GMT] PHP Fatal error:  Call to a member function query() on null in /home/cpuma/public_html/Applications/restaurent/Admin/Form.php on line 8
+[19-May-2018 18:20:56 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:21:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:22:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:23:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:24:00 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:24:24 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:24:26 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:24:36 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:25:15 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:25:34 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 37
+[19-May-2018 18:25:36 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 37
+[19-May-2018 18:25:38 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 37
+[19-May-2018 18:25:40 Etc/GMT] PHP Parse error:  syntax error, unexpected '/' in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 37
+[19-May-2018 18:26:05 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:26:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:26:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:26:54 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:27:39 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[19-May-2018 18:27:53 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:25:09 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:30:13 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:30:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:41:19 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:41:21 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:41:24 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:44:05 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:44:14 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:45:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:46:31 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:46:32 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:46:37 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:48:13 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:52:23 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:52:32 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:52:34 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:52:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/table_update.php on line 11
+[20-May-2018 08:53:46 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:53:52 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:53:53 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:53:57 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:55:33 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:55:46 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:55:51 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 08:57:12 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 13:15:02 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:07:27 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:07:28 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:10:30 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:10:32 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:10:38 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:12:41 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:14:49 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:16:10 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
+[20-May-2018 14:17:47 Etc/GMT] PHP Notice:  Undefined index: id in /home/cpuma/public_html/Applications/restaurent/Admin/menu.php on line 36
